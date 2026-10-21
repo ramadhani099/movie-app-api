@@ -43,16 +43,16 @@ Tes juga kasus error untuk bukti di laporan:
    ## Hasil Pengujian Postman
 
    ### GET semua movie
-   ![GET all movies](screenshots/get-all-movies.png)
+   ![GET all movies](screenshot/get-all-movies.png)
 
    ### GET satu movie
-   ![GET movie by id](screenshots/get-movie-by-id.png)
+   ![GET movie by id](screenshot/get-movie-by-id.png)
 
    ### POST tambah movie
-   ![POST movie](screenshots/post-movie.png)
+   ![POST movie](screenshot/post-movie.png)
 
    ### PATCH ubah movie
-   ![PATCH movie](screenshots/patch-movie.png)
+   ![PATCH movie](screenshot/patch-movie.png)
 
    ### DELETE hapus movie
-   ![DELETE movie](screenshots/delete-movie.png)
+   ![DELETE movie](screenshot/delete-movie.png)
