@@ -1,0 +1,15 @@
+{
+  "name": "movie-app-api",
+  "version": "1.0.0",
+  "description": "REST API sederhana Movie App menggunakan Node.js, Express.js, dan MySQL",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mysql2": "^3.11.0"
+  }
+}
